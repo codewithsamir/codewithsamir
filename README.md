@@ -1,11 +1,58 @@
-Hi there 👋, I’m Samir!
-I’m a passionate Full Stack Developer and the creator of CodeWithSamir on YouTube, where I teach and share my knowledge on web development, mobile app development, and backend technologies. 🚀
+# Hi there, I'm KonePlz 👋
 
-🔭 I’m currently working on multiple exciting projects at my startup, Digineptronic, where I lead development efforts for web and mobile applications.
-🌱 I’m currently learning more about Advanced JavaScript, Machine Learning, and Backend Frameworks.
-👯 I’m looking to collaborate on innovative web and mobile development projects.
-🤔 I’m looking for help with Scaling web applications and Improving performance.
-💬 Ask me about React, Next.js, Django, Node.js, or anything related to web/mobile app development.
-📫 How to reach me: You can connect with me on LinkedIn or feel free to drop me a message here on GitHub.
-😄 Pronouns: He/Him
-⚡ Fun fact: I love exploring new technologies and building apps that solve real-world problems!
+## 🚀 About Me
+
+I am a passionate **Software Developer** with experience in **web development** and a focus on **React.js**, **Redux Toolkit**, and creating practical, real-world projects. I enjoy teaching coding, sharing knowledge, and working on innovative solutions to make technology accessible and impactful.
+
+I also run an offline clothing shop named **Samin Collection**, which I'm transitioning into an online business.
+
+## 🌟 My YouTube Channel
+
+### [KonePlz Channel](#)
+
+I create engaging tutorials and guides, including:
+
+- **Web Development** using React.js
+- Practical projects for beginners and advanced learners
+- Tips and tricks for improving your coding journey
+
+Join my [YouTube channel](#) and subscribe to stay updated on exciting new content! 🚀
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages:
+- **JavaScript**
+- **Python**
+
+### Frameworks and Libraries:
+- **React.js**, **Redux Toolkit**
+- **Node.js**
+
+### Database Management:
+- Experience with **MongoDB**, **Firebase**, and **SQL databases**
+
+### Other Skills:
+- Building **E-commerce** websites
+- Cloud hosting on **Vercel**
+- Domain management
+
+---
+
+## 📊 GitHub Stats
+
+![KonePlz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KonePlz&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonePlz&layout=compact&theme=radical)
+
+---
+
+## 📬 How to Reach Me
+
+- **Email:** [your_email@example.com](mailto:your_email@example.com)
+- **LinkedIn:** [YourLinkedInProfile](#)
+- **Portfolio:** [YourPortfolioLink](#)
+- **YouTube:** [KonePlz](#)
