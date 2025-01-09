@@ -1,6 +1,3 @@
-Here's your updated profile:
-
----
 
 # Hi there, I'm Samir 👋
 
@@ -57,10 +54,7 @@ Join my [YouTube channel](https://www.youtube.com/channel/CodeWithSamir) and sub
 ## 📬 How to Reach Me
 
 - **Email:** [codewithsamir@gmail.com](mailto:codewithsamir@gmail.com)
-- **LinkedIn:** [Samir Rain](https://www.linkedin.com/in/samirrain)
+- **LinkedIn:** [Samir Rain](https://np.linkedin.com/in/samir-rain-0467b7259?trk=people-guest_people_search-card)
 - **Portfolio:** [Samir Rain Portfolio](https://samirrain.github.io/)
 - **YouTube:** [CodeWithSamir](https://www.youtube.com/channel/CodeWithSamir)
 
----
-
-This is ready for you to use!
