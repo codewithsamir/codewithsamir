@@ -1,58 +1,66 @@
-# Hi there, I'm KonePlz 👋
+Here's your updated profile:
+
+---
+
+# Hi there, I'm Samir 👋
 
 ## 🚀 About Me
 
-I am a passionate **Software Developer** with experience in **web development** and a focus on **React.js**, **Redux Toolkit**, and creating practical, real-world projects. I enjoy teaching coding, sharing knowledge, and working on innovative solutions to make technology accessible and impactful.
-
-I also run an offline clothing shop named **Samin Collection**, which I'm transitioning into an online business.
+I am a passionate **Software Developer** with experience in **web development** and a focus on **React.js**, **Next.js**, **Tailwind CSS**, **Node.js**, and building practical, real-world projects. I enjoy teaching coding, sharing knowledge, and working on innovative solutions to make technology accessible and impactful.
 
 ## 🌟 My YouTube Channel
 
-### [KonePlz Channel](#)
+### [CodeWithSamir](https://www.youtube.com/channel/CodeWithSamir)
 
 I create engaging tutorials and guides, including:
 
-- **Web Development** using React.js
+- **Web Development** using React.js, Next.js, and Tailwind CSS
 - Practical projects for beginners and advanced learners
 - Tips and tricks for improving your coding journey
 
-Join my [YouTube channel](#) and subscribe to stay updated on exciting new content! 🚀
+Join my [YouTube channel](https://www.youtube.com/channel/CodeWithSamir) and subscribe to stay updated on exciting new content! 🚀
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- **JavaScript**
-- **Python**
+- **JavaScript**, **Python**
+- **C**, **C++**
 
 ### Frameworks and Libraries:
-- **React.js**, **Redux Toolkit**
-- **Node.js**
+- **React.js**, **Next.js**, **Tailwind CSS**
+- **Node.js**, **Redux Toolkit**
+- **Django**
 
 ### Database Management:
-- Experience with **MongoDB**, **Firebase**, and **SQL databases**
+- Experience with **MongoDB**, **MySQL**, **SQLite**
 
 ### Other Skills:
 - Building **E-commerce** websites
-- Cloud hosting on **Vercel**
-- Domain management
+- Cloud hosting on **Vercel**, **GitHub Pages**
+- Version control with **Git** and **GitHub**
+- **Project Management**, **Team Lead**
 
 ---
 
 ## 📊 GitHub Stats
 
-![KonePlz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KonePlz&show_icons=true&theme=radical)
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithSamir&show_icons=true&theme=radical)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonePlz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSamir&layout=compact&theme=radical)
 
 ---
 
 ## 📬 How to Reach Me
 
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [YourLinkedInProfile](#)
-- **Portfolio:** [YourPortfolioLink](#)
-- **YouTube:** [KonePlz](#)
+- **Email:** [codewithsamir@gmail.com](mailto:codewithsamir@gmail.com)
+- **LinkedIn:** [Samir Rain](https://www.linkedin.com/in/samirrain)
+- **Portfolio:** [Samir Rain Portfolio](https://samirrain.github.io/)
+- **YouTube:** [CodeWithSamir](https://www.youtube.com/channel/CodeWithSamir)
+
+---
+
+This is ready for you to use!
