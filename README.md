@@ -1,11 +1,11 @@
 
 # Hi there, I'm Samir 👋
 
-<p align="center">
+
   <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=codewithsamir&countColor=%237B1E7A" />
    </a>
-</p>
+
 
 ## 🚀 About Me
 
