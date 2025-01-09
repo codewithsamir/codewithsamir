@@ -6,6 +6,8 @@
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=codewithsamir&countColor=%237B1E7A" />
    </a>
 
+   [GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) are special profile badges that can be earned by completing certain objectives. These objectives can range from writing code, participating in events, and being awesome to the community, to contributing to open-source projects.
+
 
 ## 🚀 About Me
 
