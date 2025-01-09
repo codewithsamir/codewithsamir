@@ -2,7 +2,7 @@
 # Hi there, I'm Samir 👋
 
 ## 👀 Visitor Count
-![Visitor Count](https : //profile-counter.glitch.me/{codewithsamir}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/codewithsamir/count.svg)
 
 ## 🚀 About Me
 
