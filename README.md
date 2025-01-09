@@ -1,6 +1,8 @@
 
 # Hi there, I'm Samir 👋
+## 👀 Visitor Count
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CodeWithSamir.profile)
 ## 🚀 About Me
 
 I am a passionate **Software Developer** with experience in **web development** and a focus on **React.js**, **Next.js**, **Tailwind CSS**, **Node.js**, and building practical, real-world projects. I enjoy teaching coding, sharing knowledge, and working on innovative solutions to make technology accessible and impactful.
