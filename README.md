@@ -2,7 +2,7 @@
 # Hi there, I'm Samir 👋
 
 ## 👀 Visitor Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithsamir.codewithsamir)
+![Visitor Count](https : //profile-counter.glitch.me/{codewithsamir}/count.svg)
 
 ## 🚀 About Me
 
