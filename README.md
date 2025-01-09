@@ -1,8 +1,11 @@
 
 # Hi there, I'm Samir 👋
 
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/codewithsamir/count.svg)
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 
 ## 🚀 About Me
 
